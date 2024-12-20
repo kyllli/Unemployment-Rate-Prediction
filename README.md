@@ -3,6 +3,7 @@ This is the final project for ADSP 31014 Statistical Models for Data Science cou
 
 ### Data Sources:
 https://fred.stlouisfed.org
+
 https://www.bls.gov/eag/eag.us.htm
 
 ### Key Variables:
