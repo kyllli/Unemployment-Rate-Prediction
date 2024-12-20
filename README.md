@@ -1,11 +1,11 @@
 # ADSP-31014-Unemployment-Rate-Prediction
 This is the final project for ADSP 31014 Statistical Models for Data Science course. It focuses on predicting the future unemployment rate in the United States using data from 2021 to 2024.
 
-#### Data Sources:
+### Data Sources:
 https://fred.stlouisfed.org
 https://www.bls.gov/eag/eag.us.htm
 
-#### Key Variables:
+### Key Variables:
 - Seasonally Adjusted Variables:
   - __CORESTICKM159SFRBATL__ (Sticky Price Consumer Price Index (CPI))
   - __BOPTIMP__ (Imports of Goods and Services (Balance of Payments))
